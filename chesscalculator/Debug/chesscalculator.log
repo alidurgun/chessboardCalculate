@@ -1,0 +1,11 @@
+﻿  knight.cpp
+  Chessboard.cpp
+  bishop.cpp
+  rook.cpp
+  main.cpp
+  pawn.cpp
+  king.cpp
+  piece.cpp
+  queen.cpp
+  Generating Code...
+  chesscalculator.vcxproj -> C:\Users\alidu\source\repos\chesscalculator\Debug\chesscalculator.exe
